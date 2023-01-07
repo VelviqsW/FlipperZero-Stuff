@@ -1,0 +1,12 @@
+REM Title: PH-OSX
+REM Author: Velviqs 
+REM Opens pornhub
+REM Target: macOS 11.0+
+REM
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 1000
+STRING open 'https://www.pornhub.com'; exit
+ENTER
